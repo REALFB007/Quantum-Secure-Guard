@@ -1,12 +1,13 @@
-# QuantumShield  
+# QuantumShield - A Step Towards Future Security
 **Post-Quantum Cryptography Vulnerability Scanner**
+Biult on **Kali Linux** with **Python** and **Flask**
 
 
 A powerful, easy-to-use tool that scans websites for **Shor-vulnerable** cryptographic algorithms (RSA, ECC, ECDH) and recommends migration to **quantum-safe** alternatives like **Kyber** and **Dilithium**.
 
 Built for the quantum era — detect today's risks before quantum computers break them.
 
-## 🌟 Features
+##  Features
 
 - Real-time TLS certificate analysis using OpenSSL
 - Detects **RSA**, **ECC**, **ECDH**, **finite-field DH**, and outdated TLS versions
@@ -22,7 +23,7 @@ Built for the quantum era — detect today's risks before quantum computers brea
   <img src="quantum.jpg" alt="Click to play QuantumShield demo video" width="900" style="cursor: pointer; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
 </a>
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/REALFB007/QuantumShield.git
